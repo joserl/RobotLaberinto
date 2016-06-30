@@ -1,0 +1,27 @@
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\bin\Debug\Dibujo.exe
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\bin\Debug\Dibujo.pdb
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\bin\Debug\Dibujo.xml
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.Form1.resources
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.Resources.resources
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.vbproj.GenerateResource.Cache
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.xml
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.pdb
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.Form2.resources
+C:\Users\Jose R.L\Documents\Visual Studio 2008\Projects\Dibujo\Dibujo\obj\Debug\Dibujo.Form3.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.xml
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.pdb
+C:\Users\Roman\Desktop\Dibujo\Dibujo\bin\Debug\Dibujo.exe
+C:\Users\Roman\Desktop\Dibujo\Dibujo\bin\Debug\Dibujo.pdb
+C:\Users\Roman\Desktop\Dibujo\Dibujo\bin\Debug\Dibujo.xml
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.Resources.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.vbproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.FormAbrir.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.FormGuardar.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Debug\Dibujo.PanelPrincipal.resources
+C:\Users\Jose\Desktop\Dibujo\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+C:\Users\Jose\Desktop\Dibujo\Dibujo\Dibujo\obj\Debug\Dibujo.xml
+C:\Users\Jose\Desktop\Dibujo\Dibujo\Dibujo\obj\Debug\Dibujo.pdb

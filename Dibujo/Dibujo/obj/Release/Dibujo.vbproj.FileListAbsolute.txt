@@ -1,0 +1,12 @@
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.FormAbrir.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.FormGuardar.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.Resources.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.vbproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\Dibujo\Dibujo\bin\Release\Dibujo.exe
+C:\Users\Roman\Desktop\Dibujo\Dibujo\bin\Release\Dibujo.pdb
+C:\Users\Roman\Desktop\Dibujo\Dibujo\bin\Release\Dibujo.xml
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.PanelPrincipal.resources
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.exe
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.xml
+C:\Users\Roman\Desktop\Dibujo\Dibujo\obj\Release\Dibujo.pdb

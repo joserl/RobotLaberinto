@@ -1,0 +1,1 @@
+"Provider=SQLNCLI10.1;Integrated Security=SSPI;Persist Security Info=False;User ID='';Initial Catalog=TP_Com;Data Source=ROMAN-PC\SQLEXPRESS;Initial File Name='';Server SPN=''"
